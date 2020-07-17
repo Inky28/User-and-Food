@@ -1,0 +1,8 @@
+# ignore .vs
+.vs/
+# ingore Debag
+Debug/
+# ignore temp
+temp/
+# ignore Debag in Folder User and Food
+User and Food/Debug/
